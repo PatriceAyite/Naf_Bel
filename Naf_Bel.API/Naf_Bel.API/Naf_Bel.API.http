@@ -1,0 +1,6 @@
+@Naf_Bel.API_HostAddress = http://localhost:5279
+
+GET {{Naf_Bel.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

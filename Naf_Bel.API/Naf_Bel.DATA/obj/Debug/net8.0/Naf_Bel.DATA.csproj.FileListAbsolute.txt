@@ -1,0 +1,14 @@
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\bin\Debug\net8.0\Naf_Bel.DATA.deps.json
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\bin\Debug\net8.0\Naf_Bel.DATA.runtimeconfig.json
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\bin\Debug\net8.0\Naf_Bel.DATA.dll
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\bin\Debug\net8.0\Naf_Bel.DATA.pdb
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.csproj.AssemblyReference.cache
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.AssemblyInfoInputs.cache
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.AssemblyInfo.cs
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.csproj.CoreCompileInputs.cache
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.dll
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\refint\Naf_Bel.DATA.dll
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.pdb
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\Naf_Bel.DATA.genruntimeconfig.cache
+D:\NAFIBEL_BACK\Naf_Bel.API\Naf_Bel.DATA\obj\Debug\net8.0\ref\Naf_Bel.DATA.dll
