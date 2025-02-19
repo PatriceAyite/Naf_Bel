@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Naf_Bel.DATA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46e49bb9d38b87a2e7e10c485438028118ef934a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Naf_Bel.DATA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Naf_Bel.DATA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
